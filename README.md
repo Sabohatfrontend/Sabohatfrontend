@@ -1,2 +1,3 @@
-### Hi, I'm Sobirova Sabohat Umarovna <img src="[https://giphy.com/embed/3ohryhLGwtyIGy1ibS](https://media2.giphy.com/media/s1JvHf7JPTtEdKe7Sb/giphy.gif?cid=ecf05e47qqaljj2vcs77v9iyg0lbqquukvo8w8ih255117yh&ep=v1_stickers_search&rid=giphy.gif&ct=s)https://media2.giphy.com/media/s1JvHf7JPTtEdKe7Sb/giphy.gif?cid=ecf05e47qqaljj2vcs77v9iyg0lbqquukvo8w8ih255117yh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20" height="20"></img>👋
+### Hi, I'm Sobirova Sabohat Umarovna 👋
 
+I'm frontend developper.
