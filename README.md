@@ -13,7 +13,7 @@ ___
 
 ___
 ### &#128188; PROFESSIONAL EXPERIENCE
- **iTransition(Tashkent, remote) | Intern Developer(sep/2023-nov/203)**\
+ **iTransition(Tashkent, remote) | Intern Developer(sep/2023-nov/2023)**\
  iTransition is a global software engineering company. I contributed to both front and back-end projects. I worked independently and remotely while managing the course project assigned to me.
 * Implemented a Web application for personal collection management (books, post-stamps, whiskeys, etc.)
 * Developed an admin panel.
@@ -25,7 +25,7 @@ ___
 1. Responsive Web Design
 1. Javascript
 1. Git, Github
-1. React
+1. React(basic)
 1. Node & Express, MongoDB (basic)
 ___
 ### &#127979; EDUCATION
