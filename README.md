@@ -36,7 +36,17 @@ ___
 ### COURSES
 * [Javascript/Front-end Mentoring Program (in English)](https://rs.school/js-en/) - ongoing
 * [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)
-* [Online Html and CSS foundation course](https://youtu.be/h2ucBIYlS1Q?si=CLbTA2G-zNicWqE_)
+
+  ___
+
+### &#128193; Portfolio
+* [eCommerce Aplication](https://sprint-w2jh.onrender.com) - Team members: Sabohat Sobirova, Guranda Lemonjava, Ina Flaryanovich. Our team uses React library for the frontend and CommerceTools for the API client. We have configured the development environment with Vite, TypeScript, ESLint, Prettier, Husky, and Vitest for testing.
+* [Coffee House](https://rolling-scopes-school.github.io/sabohatfrontend-JSFEEN2023Q4/coffee-house/) - HTML, Css, JavaScript
+* [Hangman](https://rolling-scopes-school.github.io/sabohatfrontend-JSFEEN2023Q4/hangman/_) - HTML, Css, JavaScript
+* [Library](https://rolling-scopes-school.github.io/sabohatfrontend-JSFEPRESCHOOL2023Q2/library/) - HTML, Css, JavaScript
+* [2048](https://rolling-scopes-school.github.io/sabohatfrontend-JSFEPRESCHOOL2023Q2/random-game/) - HTML, Css, JavaScript
+* [Unsplash image galery](https://rolling-scopes-school.github.io/sabohatfrontend-JSFEPRESCHOOL2023Q2/image-gallery/_) - HTML, Css, JavaScript
+* [Audio Player](https://rolling-scopes-school.github.io/sabohatfrontend-JSFEPRESCHOOL2023Q2/audio-player/_) - HTML, Css, JavaScript
 
 ___
 
